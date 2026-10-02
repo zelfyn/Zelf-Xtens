@@ -399,6 +399,6 @@ The former Expressions workflow was removed in `v1.1.1`, while graph, anchor/pos
 
 **[View Repository](https://github.com/zelfyn/Zelf-Xtens)** · **[View Changelog](CHANGELOG.md)**
 
-Made for Adobe After Effects · Built by [Zelfyn](https://github.com/zelfyn)
+Made for Adobe After Effects · Built by Claude AI and [Zelfyn](https://github.com/zelfyn)
 
 </div>
